@@ -5,3 +5,4 @@ _*
 .RData
 .Renviron
 .Ruserdata
+rsconnect/*

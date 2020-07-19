@@ -1,0 +1,30 @@
+.panel-menu {
+padding: 20px;
+background-color: rgba(200, 220, 240, 0.5);
+}
+
+.mainmenu {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(200, 220, 240, 0.5);
+}
+
+body {
+    max-width: 1600px;
+    margin: 10px auto 10px auto;
+}
+
+.thumbnail {
+    display: inline-block;
+    height: 200px;
+}
+
+.caption {
+    
+}
+
+.content {
+    padding: 0 auto 0 auto;
+    width: 200px;
+    text-align: center;
+}
